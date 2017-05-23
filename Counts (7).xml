@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Metrics  SiteId="KK3" Sitename="Arcadia">
+<Properties>
+<MacAddress>00:b0:9d:ab:b9:f2</MacAddress>
+<IpAddress>192.168.1.7</IpAddress>
+<Timezone>-8</Timezone>
+<DST>1</DST>
+<DeviceType>0</DeviceType>
+<SerialNumber>11254258</SerialNumber>
+</Properties>
+<ReportData  Interval="15">
+<Report  Date="2014-05-13">
+<Object  Id="0" DeviceId="KK3" Devicename="KK3" ObjectType="0" Name="KK3 Entrance">
+<Count  StartTime="00:00:00" EndTime="00:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="00:15:00" EndTime="00:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="00:30:00" EndTime="00:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="00:45:00" EndTime="01:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="01:00:00" EndTime="01:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="01:15:00" EndTime="01:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="01:30:00" EndTime="01:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="01:45:00" EndTime="02:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="02:00:00" EndTime="02:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="02:15:00" EndTime="02:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="02:30:00" EndTime="02:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="02:45:00" EndTime="03:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="03:00:00" EndTime="03:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="03:15:00" EndTime="03:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="03:30:00" EndTime="03:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="03:45:00" EndTime="04:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="04:00:00" EndTime="04:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="04:15:00" EndTime="04:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="04:30:00" EndTime="04:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="04:45:00" EndTime="05:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="05:00:00" EndTime="05:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="05:15:00" EndTime="05:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="05:30:00" EndTime="05:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="05:45:00" EndTime="06:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="06:00:00" EndTime="06:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="06:15:00" EndTime="06:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="06:30:00" EndTime="06:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="06:45:00" EndTime="07:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="07:00:00" EndTime="07:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="07:15:00" EndTime="07:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="07:30:00" EndTime="07:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="07:45:00" EndTime="08:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="08:00:00" EndTime="08:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="08:15:00" EndTime="08:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="08:30:00" EndTime="08:45:00" Enters="1" Exits="1" Status="4"/>
+<Count  StartTime="08:45:00" EndTime="09:00:00" Enters="2" Exits="1" Status="0"/>
+<Count  StartTime="09:00:00" EndTime="09:15:00" Enters="0" Exits="1" Status="0"/>
+<Count  StartTime="09:15:00" EndTime="09:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="09:30:00" EndTime="09:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="09:45:00" EndTime="10:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="10:00:00" EndTime="10:15:00" Enters="4" Exits="3" Status="0"/>
+<Count  StartTime="10:15:00" EndTime="10:30:00" Enters="2" Exits="3" Status="0"/>
+<Count  StartTime="10:30:00" EndTime="10:45:00" Enters="3" Exits="0" Status="1"/>
+<Count  StartTime="10:45:00" EndTime="11:00:00" Enters="3" Exits="3" Status="0"/>
+<Count  StartTime="11:00:00" EndTime="11:15:00" Enters="6" Exits="3" Status="0"/>
+<Count  StartTime="11:15:00" EndTime="11:30:00" Enters="0" Exits="2" Status="0"/>
+<Count  StartTime="11:30:00" EndTime="11:45:00" Enters="3" Exits="3" Status="0"/>
+<Count  StartTime="11:45:00" EndTime="12:00:00" Enters="4" Exits="3" Status="0"/>
+<Count  StartTime="12:00:00" EndTime="12:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="12:15:00" EndTime="12:30:00" Enters="2" Exits="2" Status="0"/>
+<Count  StartTime="12:30:00" EndTime="12:45:00" Enters="7" Exits="3" Status="0"/>
+<Count  StartTime="12:45:00" EndTime="13:00:00" Enters="2" Exits="6" Status="0"/>
+<Count  StartTime="13:00:00" EndTime="13:15:00" Enters="0" Exits="1" Status="0"/>
+<Count  StartTime="13:15:00" EndTime="13:30:00" Enters="3" Exits="2" Status="0"/>
+<Count  StartTime="13:30:00" EndTime="13:45:00" Enters="7" Exits="4" Status="0"/>
+<Count  StartTime="13:45:00" EndTime="14:00:00" Enters="2" Exits="6" Status="0"/>
+<Count  StartTime="14:00:00" EndTime="14:15:00" Enters="1" Exits="1" Status="0"/>
+<Count  StartTime="14:15:00" EndTime="14:30:00" Enters="1" Exits="1" Status="0"/>
+<Count  StartTime="14:30:00" EndTime="14:45:00" Enters="2" Exits="2" Status="0"/>
+<Count  StartTime="14:45:00" EndTime="15:00:00" Enters="4" Exits="2" Status="0"/>
+<Count  StartTime="15:00:00" EndTime="15:15:00" Enters="1" Exits="2" Status="0"/>
+<Count  StartTime="15:15:00" EndTime="15:30:00" Enters="1" Exits="1" Status="0"/>
+<Count  StartTime="15:30:00" EndTime="15:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="15:45:00" EndTime="16:00:00" Enters="6" Exits="4" Status="0"/>
+<Count  StartTime="16:00:00" EndTime="16:15:00" Enters="2" Exits="2" Status="0"/>
+<Count  StartTime="16:15:00" EndTime="16:30:00" Enters="2" Exits="2" Status="0"/>
+<Count  StartTime="16:30:00" EndTime="16:45:00" Enters="2" Exits="0" Status="0"/>
+<Count  StartTime="16:45:00" EndTime="17:00:00" Enters="3" Exits="5" Status="0"/>
+<Count  StartTime="17:00:00" EndTime="17:15:00" Enters="14" Exits="13" Status="0"/>
+<Count  StartTime="17:15:00" EndTime="17:30:00" Enters="2" Exits="4" Status="0"/>
+<Count  StartTime="17:30:00" EndTime="17:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="17:45:00" EndTime="18:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="18:00:00" EndTime="18:15:00" Enters="2" Exits="2" Status="0"/>
+<Count  StartTime="18:15:00" EndTime="18:30:00" Enters="2" Exits="1" Status="0"/>
+<Count  StartTime="18:30:00" EndTime="18:45:00" Enters="1" Exits="1" Status="0"/>
+<Count  StartTime="18:45:00" EndTime="19:00:00" Enters="6" Exits="6" Status="0"/>
+<Count  StartTime="19:00:00" EndTime="19:15:00" Enters="1" Exits="0" Status="0"/>
+<Count  StartTime="19:15:00" EndTime="19:30:00" Enters="2" Exits="2" Status="0"/>
+<Count  StartTime="19:30:00" EndTime="19:45:00" Enters="0" Exits="0" Status="4"/>
+<Count  StartTime="19:45:00" EndTime="20:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="20:00:00" EndTime="20:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="20:15:00" EndTime="20:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="20:30:00" EndTime="20:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="20:45:00" EndTime="21:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="21:00:00" EndTime="21:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="21:15:00" EndTime="21:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="21:30:00" EndTime="21:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="21:45:00" EndTime="22:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="22:00:00" EndTime="22:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="22:15:00" EndTime="22:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="22:30:00" EndTime="22:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="22:45:00" EndTime="23:00:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="23:00:00" EndTime="23:15:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="23:15:00" EndTime="23:30:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="23:30:00" EndTime="23:45:00" Enters="0" Exits="0" Status="0"/>
+<Count  StartTime="23:45:00" EndTime="00:00:00" Enters="0" Exits="0" Status="0"/>
+</Object>
+</Report>
+</ReportData>
+</Metrics>
